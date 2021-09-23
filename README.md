@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development and Mobile Development.
 - 📫 How to reach me ilmi_azyua@yahoo.co.id
 
-If you interested with me, please follow my [Linkedin](https://www.linkedin.com/in/gilang-adhan/) account.
+If you interested with me, please follow my [Linkedin](https://www.linkedin.com/in/ilmi-yuliardhi-b843b8a6/) account.
 
 <!---
 ilmiazhar/ilmiazhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
