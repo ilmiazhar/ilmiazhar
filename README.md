@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilmiazhar
-- 👀 I’m interested in Programming and Languages
+- 👀 I’m interested in Programming and Foreign Languages
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Web Development and Data Science
 - 📫 How to reach me ilmi_azyua@yahoo.co.id
